@@ -1,4 +1,4 @@
-# Filename-extension-Change-tool
+Batch Rename File Extensions
 
 切记，只做学习之用，不允许商用或任何产生利益的使用
 
